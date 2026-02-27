@@ -1,0 +1,6 @@
+Questions to reflect on:
+What value of P did you choose, and why?
+R: Escolhi P = 5L pois se dormir durante muito tempo temos muitas alterações que não foram vistas.
+
+Why can polling miss short-lived states?
+R: Porque se o estado for alterado e depois de um tempo inferior a P voltar ao estado anterior, o polling pode não detetar essa mudança.
